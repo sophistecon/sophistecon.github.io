@@ -5,9 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Economic Development
-  - Labour
-  - Organizational
-  - Spatial
+  - Technology Adoption
+  - Trust
 social:
   - icon: twitter
     icon_pack: fab
@@ -41,7 +40,7 @@ email: sophie.nottmeyer@cemfi.edu.es
 ---
 ⚠Website under construction. TBC :)⚠
 
-I am a PhD Candidate in Economics at CEMFI. 
+I am a PhD Candidate in Economics at \[CEMFI](https://www.cemfi.es/).
 
 My main research interests are development, labor, organizational and spatial economics. My current work focuses on technology adoption and the role of trust. My projects have been supported by STEG and PEDL. 
 
