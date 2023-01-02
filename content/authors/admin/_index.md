@@ -28,8 +28,8 @@ education:
   courses:
     - course: MSc in Economics
       institution: Sciences Po Paris
-      year: 2017
-    - course: BSc International Economics & European Studies
+      year: ""
+    - course: BSc International Economics
       institution: University of Tübingen
 superuser: true
 status:
@@ -39,10 +39,12 @@ highlight_name: true
 first_name: Sophie
 email: sophie.nottmeyer@cemfi.edu.es
 ---
+⚠Website under construction. TBC :)⚠
+
 I am a PhD Candidate in Economics at CEMFI. 
 
-My main research interests lie at the intersection of development, labor, organizational and spatial economics. My current work focuses on technology adoption and the role of trust. My projects have been supported by STEG and PEDL. 
+My main research interests are development, labor, organizational and spatial economics. My current work focuses on technology adoption and the role of trust. My projects have been supported by STEG and PEDL. 
 
-Beyond the lab, I play Lacrosse at the (inter-) national level and help run Madrid Lacrosse Club as vice president.
+Prior to starting my PhD, I briefly worked in international development cooperation. Beyond the lab, I play lacrosse at the (inter-) national level and help run Madrid Lacrosse Club as vice president. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}
