@@ -37,8 +37,6 @@ highlight_name: true
 first_name: Sophie
 email: sophie.nottmeyer@cemfi.edu.es
 ---
-⚠Website under construction. TBC :)⚠
-
 I am a PhD Candidate in Economics at CEMFI.
 
 My main research interests are development, labor, organizational and spatial economics. My current work focuses on technology adoption and the role of trust, supported by STEG and PEDL.
