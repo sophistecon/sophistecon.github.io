@@ -15,6 +15,9 @@ sections:
     id: publications
     content:
       title: Work In Progress
+       filters:
+         folders:
+          - publication
     design:
       columns: '2'
   # - block: collection
