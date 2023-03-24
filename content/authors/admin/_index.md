@@ -3,9 +3,7 @@ title: Sophie Nottmeyer
 role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Development Economics
-  - Labor/IO/Spatial Economics
+interests: []
 social:
   - icon: twitter
     icon_pack: fab
@@ -23,12 +21,7 @@ organizations:
   - name: CEMFI
     url: https://www.cemfi.es/
 education:
-  courses:
-    - course: MSc in Economics
-      institution: SciencesPo Paris
-      year: ""
-    - course: BSc International Economics
-      institution: University of Tübingen
+  courses: []
 superuser: true
 status:
   icon: ☕️
@@ -37,10 +30,10 @@ highlight_name: true
 first_name: Sophie
 email: sophie.nottmeyer@cemfi.edu.es
 ---
-I am a PhD Candidate in Economics at CEMFI.
+Welcome! I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp).
 
-My main research interests are development, labor, organizational and spatial economics. My current work focuses on technology adoption and the role of trust, supported by STEG and PEDL.
+My main field of interest is development economics, with a focus on firms. My current work focuses on technology adoption in Sub-Saharan Africa. My projects have received funding from [STEG](https://steg.cepr.org/) and [PEDL](https://pedl.cepr.org/).
 
-Prior to starting my PhD, I briefly worked in international development cooperation. Beyond the lab, I play lacrosse at the (inter-) national level and help run Madrid Lacrosse Club as vice president. 
+{{< icon name="download" pack="fas" >}} My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}
+I﻿n my spare time, I play Lacrosse competitively and help run Madrid Lacrosse as vice president.
