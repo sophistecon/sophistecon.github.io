@@ -11,6 +11,7 @@ sections:
     id: about
     Params:
       author: admin
+  <!-- 
   - block: collection
     id: posts
     content:
@@ -96,4 +97,5 @@ sections:
     design:
       columns: '2'
       view: compact
+  -->
 ---
