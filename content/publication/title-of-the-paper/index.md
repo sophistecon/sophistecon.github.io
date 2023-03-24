@@ -7,7 +7,7 @@ authors:
   - admin
 abstract: this is the abstract
 draft: true
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
