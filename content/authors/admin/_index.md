@@ -20,8 +20,6 @@ social:
 organizations:
   - name: CEMFI
     url: https://www.cemfi.es/
-education:
-  courses: []
 superuser: true
 status:
   icon: ☕️
