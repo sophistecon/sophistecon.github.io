@@ -18,6 +18,9 @@ sections:
       filters:
          folders:
           - publication
+    design:
+      view: compact
+      columns: '2'
   # - block: collection
   #  id: posts
   #  content:
