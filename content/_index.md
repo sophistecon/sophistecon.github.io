@@ -11,6 +11,12 @@ sections:
     id: about
     Params:
       author: admin
+  - block: collection
+    id: publications
+    content:
+      title: Work In Progress
+    design:
+      columns: '2'
   # - block: collection
   #  id: posts
   #  content:
