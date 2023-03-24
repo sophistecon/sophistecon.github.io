@@ -30,12 +30,16 @@ highlight_name: true
 first_name: Sophie
 email: sophie.nottmeyer@cemfi.edu.es
 ---
+
+
+
+
 Welcome! 
 
 I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp).
 
 My main field of research is development economics. I study firms and markets using applied methods. My current work focuses on technology adoption in Sub-Saharan Africa. My projects have received funding from [STEG](https://steg.cepr.org/) and [PEDL](https://pedl.cepr.org/).
 
-{{< icon name="download" pack="fas" >}} My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
+I﻿n my spare time, I play lacrosse competitively and help run Madrid Lacrosse as vice president.
 
-I﻿n my spare time, I play Lacrosse competitively and help run Madrid Lacrosse as vice president.
+{{< icon name="download" pack="fas" >}} My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
