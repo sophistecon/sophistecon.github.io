@@ -28,11 +28,7 @@ highlight_name: true
 first_name: Sophie
 email: sophie.nottmeyer@cemfi.edu.es
 ---
-
-
-
-
-Welcome! 
+# Welcome!
 
 I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp).
 
