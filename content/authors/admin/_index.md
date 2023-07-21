@@ -30,7 +30,7 @@ email: sophie.nottmeyer@cemfi.edu.es
 ---
 # Welcome!
 
-I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp).
+I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es).
 
 My main field of research is development economics. My current work focuses on technology adoption and contractual frictions in  Sub-Saharan Africa. My projects have received funding from [STEG](https://steg.cepr.org/) and [PEDL](https://pedl.cepr.org/). 
 
