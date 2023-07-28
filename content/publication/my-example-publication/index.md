@@ -1,6 +1,6 @@
 ---
 publication_types:
-  - "3"
+  - "0"
 authors: []
 publication_short: ""
 abstract: This is what the abstract would look like
