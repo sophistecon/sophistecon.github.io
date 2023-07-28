@@ -3,8 +3,8 @@ publication_types:
   - "0"
 authors: []
 publication_short: ""
-abstract: This is what the abstract would look like
-draft: true
+abstract: ""
+draft: false
 slides: ""
 url_pdf: null
 summary: ""
@@ -29,4 +29,3 @@ publishDate: 2023-07-26T00:23:51+02:00
 url_poster: null
 url_code: null
 ---
-T﻿hese are the details
