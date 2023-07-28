@@ -3,7 +3,7 @@ publication_types:
   - "0"
 authors: []
 publication_short: ""
-abstract: ""
+abstract: Let's try do add an abstract
 draft: false
 slides: ""
 url_pdf: null
