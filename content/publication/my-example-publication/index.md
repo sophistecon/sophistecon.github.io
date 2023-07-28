@@ -5,7 +5,7 @@ authors:
   - admin
 publication_short: ""
 abstract: Let's try to add an abstract
-draft: true
+draft: false
 slides: ""
 url_pdf: null
 summary: this is the short abstract
