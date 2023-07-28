@@ -1,22 +1,25 @@
 ---
 publication_types:
   - "3"
-authors: []
+authors:
+  - admin
 publication_short: ""
-abstract: Let's try do add an abstract
+abstract: Let's try to add an abstract
 draft: false
 slides: ""
 url_pdf: null
-summary: ""
+summary: this is the short abstract
 url_dataset: null
 url_project: null
 url_source: null
 url_video: null
 title: My Example Publication
+subtitle: just a subtitle
 doi: ""
 publication: ""
 featured: false
-tags: []
+tags:
+  - tag1
 categories: []
 projects: []
 image:
