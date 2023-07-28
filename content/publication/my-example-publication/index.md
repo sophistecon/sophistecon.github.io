@@ -1,6 +1,6 @@
 ---
 publication_types:
-  - "0"
+  - "3"
 authors: []
 publication_short: ""
 abstract: Let's try do add an abstract
