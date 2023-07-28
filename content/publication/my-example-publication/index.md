@@ -5,7 +5,7 @@ authors:
   - admin
 publication_short: ""
 abstract: Let's try to add an abstract
-draft: false
+draft: true
 slides: ""
 url_pdf: null
 summary: this is the short abstract
@@ -18,8 +18,7 @@ subtitle: just a subtitle
 doi: ""
 publication: ""
 featured: false
-tags:
-  - tag1
+tags: []
 categories: []
 projects: []
 image:
