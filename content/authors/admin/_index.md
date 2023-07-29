@@ -17,6 +17,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sophistecon
+  - display:
+      header: false
+    icon_pack: far
+    icon: envelope
+    link: sophie.nottmeyer@cemfi.edu.es
 organizations:
   - name: CEMFI
     url: https://www.cemfi.es/
@@ -30,10 +35,10 @@ email: sophie.nottmeyer@cemfi.edu.es
 ---
 # Welcome!
 
-I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es).
+I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es). I﻿ am visiting Yale University in the Fall 2023. Please feel free to reach out if you'd like to meet: [sophie.nottmeyer@yale.edu](mailto:sophie.nottmeyer@yale.edu).
 
 My main field of research is development economics. My current work focuses on technology adoption and contractual frictions in  Sub-Saharan Africa. My projects have received funding from [STEG](https://steg.cepr.org/) and [PEDL](https://pedl.cepr.org/). 
 
-Outside of academics, I love playing lacrosse and growing the game in Europe (and beyond).
+Outside of academics, I love playing lacrosse. Apart from assignments with the Spanish Women's National Team, I help run Madrid Lacrosse as vice president.
 
 {{< icon name="download" pack="fas" >}} My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
