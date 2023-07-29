@@ -19,7 +19,7 @@ social:
     link: https://github.com/sophistecon
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: envelope
     link: mailto:sophie.nottmeyer@cemfi.edu.es
 organizations:
