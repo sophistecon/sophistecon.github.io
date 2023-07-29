@@ -1,20 +1,19 @@
 ---
 publication_types:
-  - "3"
-authors:
-  - admin
+  - "0"
+authors: []
 publication_short: ""
-abstract: Let's try to add an abstract
+abstract: ""
 draft: false
 slides: ""
 url_pdf: null
-summary: this is the short abstract
+summary: ""
 url_dataset: null
 url_project: null
 url_source: null
 url_video: null
-title: My Example Publication
-subtitle: just a subtitle
+title: "Uber for Tractors: Digital Tools for Agricultural Mechanization"
+subtitle: ""
 doi: ""
 publication: ""
 featured: false
@@ -31,3 +30,4 @@ publishDate: 2023-07-26T00:23:51+02:00
 url_poster: null
 url_code: null
 ---
+[D﻿ata collection in progress]
