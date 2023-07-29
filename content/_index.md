@@ -20,14 +20,6 @@ sections:
       - name: two
     design:
       columns: '2'
-  - block: markdown
-    content:
-      title: List?
-      text:
-          - name: project one
-          - name: project two
-    design:
-      columns: '2'
   - block: collection
     id: publications
     content:
