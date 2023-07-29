@@ -19,7 +19,7 @@ sections:
          folders:
           - publication
     design:
-      view: card
+      view: citation
       columns: '2'
   # - block: collection
   #  id: posts
