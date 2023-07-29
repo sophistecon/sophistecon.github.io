@@ -19,7 +19,7 @@ sections:
          folders:
           - publication
     design:
-      view: citation
+      view: compact
       columns: '2'
   # - block: portfolio
   #  id: projects
