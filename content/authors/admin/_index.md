@@ -5,6 +5,11 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
+  - display:
+      header: false
+    icon_pack: fas
+    icon: envelope
+    link: mailto:sophie.nottmeyer@cemfi.edu.es
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sophistecon
@@ -17,11 +22,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sophistecon
-  - display:
-      header: false
-    icon_pack: fas
-    icon: envelope
-    link: mailto:sophie.nottmeyer@cemfi.edu.es
 organizations:
   - name: CEMFI
     url: https://www.cemfi.es/
