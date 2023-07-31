@@ -24,7 +24,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2023-07-26T00:23:51+02:00
+date: 2023-07-31T18:24:24.001Z
 url_slides: null
 publishDate: 2023-07-26T00:23:51+02:00
 url_poster: null
