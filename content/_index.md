@@ -21,7 +21,7 @@ sections:
     design:
       view: compact
       columns: '2'
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Working Papers
