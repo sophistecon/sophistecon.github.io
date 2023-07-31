@@ -21,4 +21,14 @@ sections:
     design:
       view: compact
       columns: '2'
+  - block: portfolio
+    id: projects
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - project
+    design:
+      columns: '1'
+      view: showcase
 ---
