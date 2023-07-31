@@ -12,4 +12,4 @@ image:
 summary: with Guanghong Xu and Martin Nandelenga
 date: 2023-07-31T18:24:04.953Z
 ---
-F﻿unded by Private Enterprise Development in Low-Income Countries (PEDL) Programme - Currently in the field
+with Guanghong Xu and Martin Nandelenga. F﻿unded by Private Enterprise Development in Low-Income Countries (PEDL) Programme - Currently in the field 
