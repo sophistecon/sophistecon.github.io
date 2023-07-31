@@ -29,6 +29,6 @@ sections:
         folders:
           - project
     design:
-      columns: '1'
-      view: showcase
+      columns: '2'
+      view: card
 ---
