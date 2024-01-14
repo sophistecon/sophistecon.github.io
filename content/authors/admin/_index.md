@@ -1,7 +1,7 @@
 ---
 title: Sophie Nottmeyer
 role: PhD Candidate
-avatar_filename: nottmeyer_web.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
