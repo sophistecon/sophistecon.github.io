@@ -35,8 +35,8 @@ email: sophie.nottmeyer@cemfi.edu.es
 ---
 # Welcome!
 
-I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es). I﻿ am visiting Yale University during Fall 2023, let's meet! You can reach me at [sophie.nottmeyer@yale.edu](mailto:sophie.nottmeyer@yale.edu).
+I am a PhD Candidate in Economics at [CEMFI](https://www.cemfi.es).
 
-My main field of research is development economics. My current work mainly focuses on technology adoption and contractual frictions in Sub-Saharan Africa. My projects have received funding from [STEG](https://steg.cepr.org/) and [PEDL](https://pedl.cepr.org/). 
+My main field of research is development economics. My current work mainly focuses on technology adoption and contractual frictions in Sub-Saharan Africa. My projects are supported through funding by [STEG](https://steg.cepr.org/), [PEDL](https://pedl.cepr.org/) and [The Weiss Fund](https://bfi.uchicago.edu/the-weiss-fund/).
 
 {{< icon name="download" pack="fas" >}} My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
